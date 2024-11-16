@@ -1,0 +1,3970 @@
+.wine-search-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.wine-search-wine-search {
+  width: 100%;
+  height: 1394px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(246, 246, 246, 1);
+}
+.wine-search-sidebar {
+  top: 0px;
+  left: 0px;
+  width: 264px;
+  height: 1394px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 1px 0 0;
+  background-color: #ffffff;
+  border: 1px solid black;
+}
+.wine-search-nav {
+  gap: 32px;
+  top: 16px;
+  left: 16px;
+  width: 232px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-header1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame1597878947 {
+  gap: 7.084264278411865px;
+  width: 123.97462463378906px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.wine-search-vector {
+  width: 12px;
+  height: 28px;
+  box-shadow: 0px 0.8855330348014832px 3.5421321392059326px 0px rgba(0, 0, 0, 0.029999999329447746) ;
+}
+.wine-search-text100 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-pages1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-pages2 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978787451 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame1597878744 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-homeroofhouse {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text101 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787471 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 7.199999809265137px;
+  background-color: rgba(231, 231, 231, 1);
+}
+.wine-search-frame10 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text102 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787481 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame11 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text103 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787452 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall1 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame1597878750 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame12 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text104 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787453 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall2 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame1597878751 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame13 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text105 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597878749 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame14 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text106 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-pages3 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame1597878753 {
+  gap: 8px;
+  display: flex;
+  padding: 0 0 0 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-text107 {
+  color: rgba(113, 113, 113, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787482 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978787472 {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.300000190734863px;
+}
+.wine-search-frame15 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text108 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597879103 {
+  gap: 32px;
+  top: 970px;
+  left: 16px;
+  width: 232px;
+  display: flex;
+  padding: 24px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-frame1597879102 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.wine-search-frame15978790251 {
+  gap: 12px;
+  width: 224px;
+  display: flex;
+  padding: 12px;
+  overflow: hidden;
+  box-shadow: 0px 1px 1px -0.5px rgba(28, 28, 28, 0.07999999821186066) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wine-search-frame1597879022 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame1597879020 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-text109 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-ellipse1716 {
+  width: 2px;
+  height: 2px;
+}
+.wine-search-text110 {
+  color: rgba(89, 89, 89, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597879021 {
+  width: 200px;
+  height: 12px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(228, 228, 228, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 999px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wine-search-frame15978790252 {
+  gap: 1px;
+  top: 3px;
+  left: 3px;
+  width: 194px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-rectangle921404 {
+  width: auto;
+  height: 6px;
+  flex-grow: 1;
+  border-radius: 999px;
+}
+.wine-search-group1171277028 {
+  width: 64px;
+  height: 6px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.wine-search-subtract1 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 6px;
+  position: absolute;
+}
+.wine-search-group1171277030 {
+  width: 64px;
+  height: 6px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.wine-search-subtract2 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 6px;
+  position: absolute;
+}
+.wine-search-frame1597879023 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 14px;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 1px 1px -0.5px rgba(28, 28, 28, 0.07999999821186066) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wine-search-text111 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790171 {
+  gap: 6px;
+  display: flex;
+  padding: 16px 0 24px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.wine-search-frame1597879007 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-book2guideinfofaq {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text112 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790161 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 0;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-questionmarkfaqhelpquestionaire {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text113 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790172 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 0;
+  z-index: 2;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-lightbulbidealight {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text114 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597879018 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 0;
+  z-index: 3;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-moneybilldollareuro {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text115 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-vector7405 {
+  top: 0px;
+  left: 4px;
+  width: 224px;
+  height: 1px;
+  z-index: 4;
+  position: absolute;
+}
+.wine-search-user {
+  gap: 8px;
+  width: 232px;
+  display: flex;
+  padding: 4px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame1597878757 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 5.400000095367432px;
+  background-size: cover;
+  background-image: url("public/external/tq_igsxbu24tt-ixp5-200h.png");
+}
+.wine-search-text116 {
+  color: rgba(80, 80, 80, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787454 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-dotverticalmenugrab1 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-dashboard {
+  top: 0px;
+  left: 264px;
+  width: 1176px;
+  height: 1394px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(178, 120, 120, 1);
+}
+.wine-search-header2 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 1176px;
+  height: 72px;
+  display: flex;
+  padding: 24px 68px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.wine-search-pages4 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text117 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text118 {
+  color: rgba(2, 2, 2, 1);
+}
+.wine-search-search {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame1597878798 {
+  gap: 6px;
+  display: flex;
+  padding: 6px 0 6px 8px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 5.849999904632568px;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-searchmagnifyingglass {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-text120 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597878843 {
+  gap: 32px;
+  top: 74px;
+  left: 0px;
+  width: 1176px;
+  display: flex;
+  padding: 32px 68px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.wine-search-frame1597879059 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame1597879048 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.wine-search-text121 {
+  color: rgb(2, 2, 2);
+  width: 250px;
+  height: auto;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978788091 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame159787880710 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 6px 6px 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame16 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text122 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978788081 {
+  width: 20px;
+  height: 18px;
+}
+.wine-search-frame15978788082 {
+  gap: 6px;
+  display: flex;
+  padding: 6px;
+  overflow: hidden;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-dotverticalmenugrab2 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame15978788092 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.wine-search-frame1597878804 {
+  gap: 6px;
+  display: flex;
+  padding: 6px 12px 6px 8px;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame17 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text123 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597879062 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame1597878805 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: space-between;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame1597879060 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame18 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text124 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787455 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall3 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame1597878806 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: space-between;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978790611 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-tdesigngrape {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text125 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787456 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall4 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame159787880711 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: space-between;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978790612 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame19 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text126 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787457 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall5 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame15978788083 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: space-between;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978790613 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame20 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text127 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787458 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall6 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame1597878811 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: space-between;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978790614 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text128 {
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978787459 {
+  gap: 8px;
+  display: flex;
+  padding: 3px;
+  align-items: center;
+}
+.wine-search-chevrondownsmall7 {
+  width: 18px;
+  height: 18px;
+}
+.wine-search-frame1597878810 {
+  gap: 6px;
+  height: 30px;
+  display: flex;
+  padding: 6px 8px;
+  overflow: hidden;
+  box-shadow: 0px 1.5px 1.5px 0px rgba(2, 2, 2, 0.05999999865889549) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  background-color: rgba(31, 29, 29, 1);
+}
+.wine-search-frame15978790615 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-frame21 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text129 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790691 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.wine-search-frame15978790661 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-text130 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880712 {
+  gap: 7px;
+  width: 20px;
+  height: 12px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 99999px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 0.15000000596046448);
+}
+.wine-search-text131 {
+  color: rgba(177, 64, 98, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790681 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788251 {
+  gap: 12px;
+  width: 325.3333435058594px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788291 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788301 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text132 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790641 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790631 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788201 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text133 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text134 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790521 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text135 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text136 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790531 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text137 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text138 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790541 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text139 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text140 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image261 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line961 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790511 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790491 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790041 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text141 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790651 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788311 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text142 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880713 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame22 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text143 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790671 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788292 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788302 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text144 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790642 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790632 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788202 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text145 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text146 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790522 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text147 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text148 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790532 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text149 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text150 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790542 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text151 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text152 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image262 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line962 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790512 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790492 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790042 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text153 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790652 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788312 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text154 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880714 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame23 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text155 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790682 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788293 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788303 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text156 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790643 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790633 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788203 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text157 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text158 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790523 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text159 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text160 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790533 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text161 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text162 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790543 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text163 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text164 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image263 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line963 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790513 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790493 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790043 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text165 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790653 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788313 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text166 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880715 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame24 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text167 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790692 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788252 {
+  gap: 12px;
+  width: 325.3333435058594px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788294 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788304 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text168 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790644 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790634 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788204 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text169 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text170 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790524 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text171 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text172 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790534 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text173 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text174 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790544 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text175 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text176 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image264 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line964 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790514 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790494 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790044 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text177 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790654 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788314 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text178 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880716 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame25 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text179 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790672 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788295 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788305 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text180 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790645 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790635 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788205 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text181 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text182 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790525 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text183 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text184 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790535 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text185 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text186 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790545 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text187 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text188 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image265 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line965 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790515 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790495 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790045 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text189 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790655 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788315 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text190 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880717 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame26 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text191 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790683 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788296 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788306 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text192 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790646 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790636 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788206 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text193 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text194 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790526 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text195 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text196 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790536 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text197 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text198 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790546 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text199 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text200 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image266 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-line966 {
+  width: 325px;
+  height: 1px;
+  align-self: stretch;
+  box-shadow: 0px 0.5px 0px 0px rgba(255, 255, 255, 0.550000011920929) ;
+}
+.wine-search-frame15978790516 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790496 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790046 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text201 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790656 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788316 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text202 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880718 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-frame27 {
+  width: 20px;
+  height: 20px;
+}
+.wine-search-text203 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame1597879070 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788253 {
+  gap: 12px;
+  width: 325.3333435058594px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788297 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788307 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text204 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790647 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790637 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788207 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text205 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text206 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790527 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text207 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text208 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790537 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text209 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text210 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790547 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text211 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text212 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image267 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-frame15978790517 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790497 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790047 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text213 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790657 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788317 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text214 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880719 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-text215 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790673 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788298 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788308 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text216 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790648 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790638 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788208 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text217 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text218 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790528 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text219 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text220 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790538 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text221 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text222 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790548 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text223 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text224 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image268 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-frame15978790518 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790498 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790048 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text225 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790658 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788318 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text226 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880720 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-text227 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790684 {
+  gap: 12px;
+  width: 325.33331298828125px;
+  display: flex;
+  padding: 0 0 16px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 6px 12px -3px rgba(3, 3, 3, 0.019999999552965164) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(254, 254, 254, 1);
+}
+.wine-search-frame15978788299 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 3, 3, 0.07999999821186066);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: space-between;
+}
+.wine-search-frame15978788309 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.wine-search-text228 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790649 {
+  gap: -22px;
+  display: flex;
+  padding: 12px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.wine-search-frame15978790639 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978788209 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text229 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text230 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790529 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text231 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text232 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790539 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text233 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text234 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790549 {
+  gap: 4px;
+  width: 139px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.wine-search-text235 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-text236 {
+  color: rgba(2, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-image269 {
+  width: 147px;
+  height: 196px;
+}
+.wine-search-frame15978790519 {
+  gap: 16px;
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790499 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-frame15978790049 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wine-search-text237 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790659 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wine-search-frame15978788319 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+.wine-search-text238 {
+  color: rgba(138, 40, 70, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame159787880721 {
+  gap: 7px;
+  height: 30px;
+  display: flex;
+  padding: 6px 12px;
+  overflow: hidden;
+  flex-grow: 1;
+  box-shadow: 0px 0px 0px 1px rgba(178, 64, 99, 1) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6.75px;
+  justify-content: center;
+  background-color: rgba(138, 40, 70, 1);
+}
+.wine-search-text239 {
+  color: rgba(254, 254, 254, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-userdropdown {
+  gap: 6px;
+  top: 270px;
+  left: 332px;
+  width: 173px;
+  display: flex;
+  padding: 4px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 8px 24px -4px rgba(28, 28, 28, 0.20000000298023224) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wine-search-frame15978790162 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-text240 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790662 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 10px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(241, 241, 241, 1);
+}
+.wine-search-text241 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790674 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 10px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.wine-search-text242 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-frame15978790685 {
+  gap: 8px;
+  display: flex;
+  padding: 7px 10px;
+  z-index: 3;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wine-search-text243 {
+  color: rgba(28, 28, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wine-search-cursors {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  z-index: 4;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wine-search-cursors-hand-pointing {
+  top: 0px;
+  left: 0.75px;
+  width: 22.499998092651367px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.wine-search-outline {
+  top: -110px;
+  right: -132px;
+  width: 22px;
+  height: 24px;
+  position: absolute;
+}
+.wine-search-fill {
+  top: -109px;
+  right: -131px;
+  width: 20px;
+  height: 22px;
+  position: absolute;
+}
